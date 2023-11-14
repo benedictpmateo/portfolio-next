@@ -5,8 +5,8 @@ import { cn } from "../_utils/styles";
 
 const links = [
   { label: "about" },
-  { label: "skills" },
   { label: "experience" },
+  { label: "skills" },
   { label: "projects" },
 ];
 

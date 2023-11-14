@@ -2,7 +2,7 @@ import experiences from "../_constants/experiences";
 
 export default function Experience() {
   return (
-    <div className="grid grid-cols-[100px_1fr] gap-4">
+    <div id="experience" className="grid grid-cols-[100px_1fr] gap-4">
       <div className="text-blue-accent">experience</div>
       <div className="space-y-4">
         {experiences.map((experience, key) => (

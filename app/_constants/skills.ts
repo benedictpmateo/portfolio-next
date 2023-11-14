@@ -51,7 +51,6 @@ const skills = [
     label: "blockchain",
     items: [
       { label: "solidity" },
-      { label: "solidity" },
       { label: "ipfs" },
       { label: "web3 integration" },
       { label: "wagmi" },

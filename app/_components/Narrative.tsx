@@ -1,6 +1,6 @@
 export default function Narrative() {
   return (
-    <div className="opacity-70 space-y-4 text-base">
+    <div id="about" className="opacity-70 space-y-4 text-base hover:opacity-100 transition-all duration-500">
       <p>hi 👋</p>
       <p>
         i&apos;m benedict mateo, a full-stack software engineer focused on building

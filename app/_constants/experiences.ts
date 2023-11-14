@@ -2,7 +2,7 @@ const experiences = [
   {
     date: "MAY 2022 - PRESENT",
     title: "Senior Software Engineer",
-    company: "(Remote) Webmint",
+    company: "Webmint",
     lists: [
       "Develop SaaS application used for clients in NFT",
       "Develop smart contracts using solidity",
@@ -13,7 +13,7 @@ const experiences = [
   {
     date: "JUN 2020 - MAY 2022",
     title: "Full Stack Developer",
-    company: "(Remote) Changing Digital Ltd.",
+    company: "Changing Digital Ltd.",
     address: "London Rd. Great Chesterford",
     lists: [
       "Develop web and mobile applications using ReactJS, React Native, NextJS, VueJS and Wordpress.",
@@ -46,7 +46,7 @@ const experiences = [
   {
     date: "JUN 2018 - JUN 2020",
     title: "Software Engineer",
-    company: "(Onsite) August 99 Inc.",
+    company: "August 99 Inc.",
     address: "Ortigas, Pasig City, Philippines",
     lists: [
       "Develop Web and Mobile applications using React, Vue, NuxtJS, NextJS, and React Native",
@@ -57,7 +57,7 @@ const experiences = [
   {
     date: "APR 2017 - MAY 2018",
     title: "Full Stack Developer",
-    company: "(Onsite) Mergepoint System Solutions",
+    company: "Mergepoint System Solutions",
     address: "Naga City, Bicol Region, Philippines",
     lists: [
       "Develop Web and Mobile App using Ionic2 and API using Node, Express and CouchDB",
