@@ -24,7 +24,7 @@ export default function Home() {
             <Experience />
             <Skills />
             <Projects />
-            <div className="">
+            <div className="pt-[200px]">
               <p className="text-light/50 text-[10px]">
                 built with <span className="text-light">next.js</span> and{" "}
                 <span className="text-light">tailwindcss</span>, deployed
