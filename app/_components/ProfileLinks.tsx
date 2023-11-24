@@ -15,7 +15,7 @@ export default function ProfileLinks() {
   const [active, setActive] = useState("about");
 
   useEffect(() => {
-    const handleScroll = (_) => {
+    const handleScroll = () => {
       const y = window.pageYOffset;
       const offsets = links.map(({ label }, i) => ({ index: i, key: label, offset: (document.getElementById(label)?.offsetTop || 40) - 40}));
       let setter = offsets[offsets.length - 1].key;
