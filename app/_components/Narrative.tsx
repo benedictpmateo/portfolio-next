@@ -17,10 +17,6 @@ export default function Narrative() {
         my journey isn&apos;t just a list of projects. it&apos;s a roadmap of my hardship
         and the things that i&apos;ve learned throughout my entire career.
       </p>
-      <p>
-        i&apos;m still a work-in-progress; but i&apos;m keeping it up; i&apos;m setting the
-        pace. and always going to push the boundaries.
-      </p>
     </div>
   );
 }
