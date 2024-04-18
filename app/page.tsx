@@ -28,22 +28,7 @@ export default function Home() {
               <p className="text-light/50 text-[10px]">
                 built with <span className="text-light">next.js</span> and{" "}
                 <span className="text-light">tailwindcss</span>, deployed
-                using <span className="text-light">vercel</span>.<br/>inspired by{" "}
-                <a
-                  href="https://github.com/bchiang7"
-                  target="_blank"
-                  className="text-light"
-                >
-                  brittany chiang
-                </a>{" "}
-                and {" "}
-                <a
-                  href="https://dribbble.com/shots/16018956-Portfolio-Landing-Page"
-                  target="_blank"
-                  className="text-light"
-                >
-                  carl agliam
-                </a>
+                using <span className="text-light">vercel</span>.<br/>
               </p>
             </div>
           </div>
