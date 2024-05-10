@@ -14,7 +14,7 @@ export default function Experience() {
             <div className="lowercase opacity-80">{experience.date}</div>
           </div>
         ))}
-        <div className="!mt-10 flex">
+        {/* <div className="!mt-10 flex">
           <a
             className="text-blue-accent py-1 px-2 rounded-sm hover:bg-blue-major hover:text-light rounded-[5px] text-sm"
             href="https://docs.google.com/document/d/1wIh1Ujhft8m2dOMJiRljQTnXaA7H-tLhBHR6X3mngEE"
@@ -22,7 +22,7 @@ export default function Experience() {
           >
             🔗 view full resume{" "}
           </a>
-        </div>
+        </div> */}
       </div>
     </div>
   );
