@@ -8,7 +8,7 @@ export default function Narrative() {
         latest trends in tech.
       </p>
       <p>
-        i&apos;ve been in this industry for 5+ years and i believe this industry,
+        i&apos;ve been in this industry for 6+ years and i believe this industry,
         it&apos;s about creating experiences that people actually enjoy. and right
         from the start, i&apos;ve been a curious tech explorer, always looking and
         trying to experiment the latest trends as a hobby.
