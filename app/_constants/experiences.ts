@@ -2,44 +2,30 @@ const experiences = [
   {
     date: "JULY 2024 - PRESENT",
     title: "Senior Frontend Developer",
-    company: "Presight AI",
+    company: "Presight AI Technologies",
     address: "Abu Dhabi, United Arab Emirates",
-    lists: [
-      // "Building AI websites using Next, React & OpenAI",
-    ],
+    lists: [],
   },
   {
     date: "MAY 2022 - JULY 2024",
     title: "Senior Software Engineer",
     company: "Royal Labs LLC",
     address: "Wilmington, United States",
-    lists: [
-      // "Build blockchain applications such as NFT and dApps using React, Vue, Solidity, Web3, Ether.js, and NextJS",
-      "Develop SaaS application used for clients in NFT",
-      "Develop smart contracts using solidity",
-      "Develop scripts to generate NFTs",
-      // "Develop mint pages and NFT features/applications using web3, ether.js, reactjs and vue",
-    ],
+    lists: [],
   },
   {
     date: "JUN 2020 - MAY 2022",
     title: "Full Stack Developer",
     company: "Changing Digital Ltd.",
     address: "London Rd. Great Chesterford",
-    lists: [
-      "Develop web and mobile applications using ReactJS, React Native, NextJS, VueJS and Wordpress.",
-    ],
+    lists: [],
   },
   {
     date: "JUN 2018 - JUN 2020",
     title: "Software Engineer",
-    company: "August 99 Inc.",
+    company: "Oqulo",
     address: "Manila, Philippines",
-    lists: [
-      "Develop Web and Mobile applications using React, Vue, NuxtJS, NextJS, and React Native",
-      "Built API and Backend Apps using NodeJS (Express), TypeORM, NestJS, Laravel, PostgreSQL and MongoDB",
-      "Develop marketing sites with Wordpress, Laravel and VueJS and also created API and backend applications using PHP, NodeJS and MongoDB",
-    ],
+    lists: [],
   },
   // {
   //   date: "APR 2017 - MAY 2018",
