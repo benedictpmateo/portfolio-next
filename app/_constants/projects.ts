@@ -4,8 +4,8 @@ const projects = [
     link: "https://fornax.ai",
     path: "/projects/fornax.jpg",
     description:
-      "developed an AI tool with openai and designed the backend system with microservice architecture.",
-    stack: ["react", "next.js", "node", "nx monorepo", "open ai", "vercel", "aws", "mongodb"],
+      "developed an AI tool with openai and designed the architecture of the application using Next, Vercel, Supabase, Node.js and AWS.",
+    stack: ["react", "next.js", "node", "nx monorepo", "open ai", "vercel", "aws", "supabase"],
   },
   {
     name: "webmint",

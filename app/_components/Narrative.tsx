@@ -8,14 +8,15 @@ export default function Narrative() {
         latest trends in tech.
       </p>
       <p>
-        i&apos;ve been in this industry for 6+ years and i believe this industry,
-        it&apos;s about creating experiences that people actually enjoy. and right
-        from the start, i&apos;ve been a curious tech explorer, always looking and
-        trying to experiment the latest trends as a hobby.
+        i&apos;ve been in this industry for around 7+ years and i believe this industry
+        is about creating experiences that people enjoy and find useful. i love
+        working with teams that share the same values and are passionate about
+        creating great products.
       </p>
       <p>
-        my journey isn&apos;t just a list of projects. it&apos;s a roadmap of my hardship
-        and the things that i&apos;ve learned throughout my entire career.
+        i&apos;m currently working at presight as a senior frontend engineer.
+        i work with a team of talented engineers to create
+        beautiful and functional applications that solve real-world problems.
       </p>
     </div>
   );
